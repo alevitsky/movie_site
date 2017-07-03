@@ -1,3 +1,2 @@
-== README
-Visit test version:
+Visit test version: 
 
